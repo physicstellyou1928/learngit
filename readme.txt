@@ -1,5 +1,4 @@
-
-wxwxsxw
+ttttttttttt
 
 
 Git has a mutable index called stage.
