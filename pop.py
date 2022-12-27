@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Dec 23 21:13:23 2022
-
-@author: ruth
-"""
 
 motorcycle=['honda','yamaha','suzuki']
 print(motorcycle)
